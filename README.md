@@ -14,4 +14,4 @@ A modern microblogging clone inspired by services like X.com (formerly Twitter).
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ilaibasheikh/WebDev.git
+   git clone https://github.com/ilaibasheikh/Y.com.git
