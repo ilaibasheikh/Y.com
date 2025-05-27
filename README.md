@@ -6,7 +6,7 @@ A modern microblogging clone inspired by services like X.com (formerly Twitter).
 - Clean and simple UI
 - Fully responsive design using TailwindCSS
 
-![Y.com](/finalproduct/screenshot.png);
+![Y.com](/finalproduct/screenshot.png)
 
 ---
 
